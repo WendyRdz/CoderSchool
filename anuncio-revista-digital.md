@@ -1,4 +1,6 @@
-### ¡Transforma tu Carrera con [CoderSchool]!
+### ¡Transforma tu Carrera con CoderSchool!
+
+![](programming.jpg)
 
 Descubre nuestra formación práctica y actualizada en desarrollo web, inteligencia artificial y más. Diseñados por expertos de la industria para equiparte con habilidades técnicas y prácticas que demandan las empresas hoy.
 
