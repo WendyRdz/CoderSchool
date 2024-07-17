@@ -8,4 +8,4 @@ Descubre tu potencial en la industria tecnológica con Code School. 🎓💻 Apr
 **Llamada a la acción**: 
 Regístrate ahora 📲 [www.codeschool.com/cursos]
 
-**Hashtags sugeridos**: #EscuelaDeTecnología #CodeSchool #AprendeTecnología #CarreraEnTecnología #DesarrolloWeb #Ciberseguridad #TransformaTuFuturo
+#EscuelaDeTecnología #CodeSchool #AprendeTecnología #CarreraEnTecnología #DesarrolloWeb #Ciberseguridad #TransformaTuFuturo
