@@ -1,4 +1,4 @@
-# Equipo: 16b AI Creativa 
+# Equipo: 16b AI Creativa 💻
 
 ## Participantes:
 - Wendy Marisol Rodriguez Beltran
@@ -6,7 +6,7 @@
   
 
 ## Tema del Proyecto:
-CoderSchool - Campaña de Marketing
+CoderSchool - Campaña de Marketing 
 
 
 ## Enlaces al Repositorio:
