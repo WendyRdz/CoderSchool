@@ -4,7 +4,7 @@ Hola Karla Malinali,
 
 Espero que este mensaje te encuentre bien. Me complace compartir contigo una emocionante oportunidad para avanzar en tu carrera en tecnología con los cursos especializados que ofrecemos en [CoderSchool](CoderSchool).
 
-En [CoderSchool], nos especializamos en proporcionar formación práctica y actualizada en áreas clave como desarrollo web, inteligencia artificial, ciencia de datos y más. Nuestros cursos están diseñados por expertos de la industria y están orientados a equiparte con las habilidades técnicas y prácticas que demandan las empresas hoy en día.
+En CoderSchool, nos especializamos en proporcionar formación práctica y actualizada en áreas clave como desarrollo web, inteligencia artificial, ciencia de datos y más. Nuestros cursos están diseñados por expertos de la industria y están orientados a equiparte con las habilidades técnicas y prácticas que demandan las empresas hoy en día.
 
 **Beneficios de nuestros cursos:**
 
@@ -23,7 +23,7 @@ Ya sea que estés buscando iniciar una nueva carrera en tecnología o mejorar tu
 
 Visita nuestro sitio web [coderschool.com](http://codershool.com) para explorar todos los cursos disponibles y registrarte hoy mismo.
 
-No pierdas la oportunidad de impulsar tu carrera con una formación de calidad en tecnología. ¡Te esperamos en [Nombre de la Escuela de Tecnología]!
+No pierdas la oportunidad de impulsar tu carrera con una formación de calidad en tecnología. ¡Te esperamos en [CoderSchool]!
 
 Quedo a tu disposición para cualquier pregunta o para ayudarte en tu proceso de inscripción.
 
