@@ -1,4 +1,4 @@
-#Explorando la educación Montessori
+# Explorando la educación Montessori
 ![Método Montessori](montessori.jpg)
 
 
