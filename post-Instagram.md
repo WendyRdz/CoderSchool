@@ -1,5 +1,5 @@
 
-![](coderschool.jpg)
+![](promotion.jpg)
 
 🚀 ¡Transforma tu futuro en Code School! 🌟
 **Cuerpo del anuncio**:
