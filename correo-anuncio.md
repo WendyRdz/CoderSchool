@@ -23,7 +23,7 @@ Ya sea que estés buscando iniciar una nueva carrera en tecnología o mejorar tu
 
 Visita nuestro sitio web [coderschool.com](http://codershool.com) para explorar todos los cursos disponibles y registrarte hoy mismo.
 
-No pierdas la oportunidad de impulsar tu carrera con una formación de calidad en tecnología. ¡Te esperamos en [CoderSchool]!
+No pierdas la oportunidad de impulsar tu carrera con una formación de calidad en tecnología. ¡Te esperamos en CoderSchool!
 
 Quedo a tu disposición para cualquier pregunta o para ayudarte en tu proceso de inscripción.
 
