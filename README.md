@@ -10,5 +10,6 @@ CoderSchool - Campaña de Marketing
 
 
 ## Enlaces al Repositorio:
-- [Anuncio en revista digital](link_a_pagina_principal_del_repositorio)
-- [Otra Página del Repositorio](link_a_otra_pagina_del_repositorio)
+- [Anuncio en revista digital](anuncio-revista-digital.md)
+- [Post de Instagram](post-Instagram.md)
+- [Correo Anuncio](correo-anuncio.md)
