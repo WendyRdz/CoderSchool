@@ -1,4 +1,4 @@
-Hola [Karla Malinali](Karla Malinali),
+Hola Karla Malinali,
 
 ![](coderschool.jpg)
 
