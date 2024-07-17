@@ -1,7 +1,6 @@
-Hola Karla Malinali,
-
 ![](coderschool.jpg)
 
+Hola Karla Malinali,
 
 Espero que este mensaje te encuentre bien. Me complace compartir contigo una emocionante oportunidad para avanzar en tu carrera en tecnología con los cursos especializados que ofrecemos en [CoderSchool](CoderSchool).
 
