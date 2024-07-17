@@ -1,5 +1,8 @@
 Hola [Nombre del destinatario],
 
+![](coderschool.jpg)
+
+
 Espero que este mensaje te encuentre bien. Me complace compartir contigo una emocionante oportunidad para avanzar en tu carrera en tecnología con los cursos especializados que ofrecemos en [CoderSchool](CoderSchool).
 
 En [CoderSchool], nos especializamos en proporcionar formación práctica y actualizada en áreas clave como desarrollo web, inteligencia artificial, ciencia de datos y más. Nuestros cursos están diseñados por expertos de la industria y están orientados a equiparte con las habilidades técnicas y prácticas que demandan las empresas hoy en día.
